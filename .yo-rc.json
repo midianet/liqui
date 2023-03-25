@@ -1,0 +1,12 @@
+{
+  "generator-springboot": {
+    "appName": "liqui",
+    "packageName": "liqui",
+    "databaseType": "postgresql",
+    "dbMigrationTool": "liquibase",
+    "features": [],
+    "buildTool": "maven",
+    "packageFolder": "liqui",
+    "liquibaseMigrationCounter": 2
+  }
+}
